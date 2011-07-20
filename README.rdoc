@@ -1,0 +1,7 @@
+= MailRoom
+
+When email absolutely, positively has to be in thousands of inboxes NOW.
+
+== Installation
+
+This code is not yet ready for production use.  If you're interested in it, please become a watcher.
