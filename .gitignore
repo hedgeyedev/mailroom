@@ -1,4 +1,7 @@
-# Should we ignore this for now unless we find we're going to Heroku or some other server that requires it?
+*.gem
+.bundle
 Gemfile.lock
-.idea/
+pkg/*
 
+# RubyMine
+.idea/
