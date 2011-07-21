@@ -13,6 +13,9 @@ Gem::Specification.new do |s|
 
   # s.rubyforge_project = "mailroom"
 
+  s.add_dependency('rake', '~> 0.9.2')
+  s.add_development_dependency('rspec', '~> 2.6.0')
+
   ###################
   # From old Gemfile:
   ###################
