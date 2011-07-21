@@ -1,7 +1,6 @@
 require "mailroom/version"
+require "mailroom/courier"
 
 module Mailroom
-  def self.test
-    'ok'
-  end
+  # Your code goes here...
 end

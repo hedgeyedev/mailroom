@@ -1,7 +1,7 @@
 require 'spec_helper'
 
-describe Mailroom do
-  it 'should call Mailroom' do
-    Mailroom.test.should == 'ok'
+describe Courier do
+  it 'should create Courier' do
+    Courier.new(nil).class.should == Courier
   end
 end
